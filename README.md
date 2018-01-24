@@ -6,7 +6,7 @@ A collection of useful powershell scripts and dockerfiles for using when deployi
 
 * [Docker][4] v1.13
 * [PowerShell][5]
-* Windows10 Anniversary Edition or Windows Server 2016
+* Windows10 Anniversary Edition or Windows Server 2016 (version 1607)
 
 To use images from this repository you will need to switch Docker to using Windows Containers. If you are new to Docker or Windows Containers the [Build And Run Your First Docker Windows Server Container][3] will guide you through the process of getting setup with these pre-requisites. For Windows 10 users the [Windows Containers on Windows 10][7] quickstart covers the same material.
 
